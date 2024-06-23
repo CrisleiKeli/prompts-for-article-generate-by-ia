@@ -56,8 +56,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
    
 <a href="https://github.com/CrisleiKeli">GitHub</a>&nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/crisleikelijenuino/">LinkedIn</a>&nbsp;|&nbsp;
-<a href="https://www.instagram.com/crisleikeli.exe/">Instagram</a>
 
 ---
 
-⌨️ com 💜 por [Crislei Keli](https://github.com/CrisleiKeli)
+⌨️ com 💜 por Crislei Keli
