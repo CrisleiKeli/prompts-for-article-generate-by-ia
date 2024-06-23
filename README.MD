@@ -1,18 +1,4 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
-
--------
-
-<p align="center">
   <img 
     src=".github/assets/CAPA ARQUIVO LINUX.png"
     width="400"  
@@ -67,21 +53,13 @@ Glif.app：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize o vscode para depura e fazer as edições necessárias.
 ## 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCrislei Jenuino<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/CrisleiKeli">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/crisleikelijenuino/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/crisleikeli.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -90,4 +68,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Crislei Keli](https://github.com/CrisleiKeli)
