@@ -39,15 +39,6 @@ ChatGPT：
 |          | - Cite exemplos com códigos de com erros mais comuns                                                       |
 |          | - Coloque 3 hashtags que façam sentido                                                                     |
 
-Glif.app：
-
-- No Glif criei as imagens, os termos de pesquisa que utilizei durante o desenvolvimento do arquivo:
-
-• Linux
-
-## 📚 Materiais
-
-- prompts utilizados
 
 ## 🛠️ Instruções de execução
 
