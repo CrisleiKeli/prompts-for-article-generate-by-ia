@@ -45,13 +45,13 @@ ChatGPT：
 |  Título  | Crie 10 headlines para nomes de artigos sobre o assunto Linux - Permissão de Arquivos e Diretórios         |                                          
 | Conteúdo | Comporte-se como um escritor de artigos tech linux e escreva o artigo atendendo as regras abaixo           |
 | {REGRAS} | > No máximo 5 linhas por blocos de explicação                                                              | 
-|            > Me explique de maneira informal, como se eu fosse uma criança de 10 anos                                 |
-|            > Os blocos que serão criados estão abaixo:                                                                | 
-|            - O que são as permissões de arquivos no Linux                                                             |
-|            - Cite exemplos com códigos de permissões de arquivos                                                      |
-|            - Quais são os erros mais comuns                                                                           |
-|            - Cite exemplos com códigos de com erros mais comuns                                                       |
-|            - Coloque 3 hashtags que façam sentido                                                                     |
+|          | > Me explique de maneira informal, como se eu fosse uma criança de 10 anos                                 |
+|          | > Os blocos que serão criados estão abaixo:                                                                | 
+|          | - O que são as permissões de arquivos no Linux                                                             |
+|          | - Cite exemplos com códigos de permissões de arquivos                                                      |
+|          | - Quais são os erros mais comuns                                                                           |
+|          | - Cite exemplos com códigos de com erros mais comuns                                                       |
+|          | - Coloque 3 hashtags que façam sentido                                                                     |
 
 Glif.app：
 
