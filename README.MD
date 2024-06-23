@@ -42,9 +42,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Linux - Permissão de Arquivos e Diretórios                                                                                                                                                                              |
 | conteúdo | Comporte-se como um escritor de artigos tech linux e escreva o artigo atendendo as regras abaixo
-
 {REGRAS}
 > No máximo 5 linhas por blocos de explicação
 > Me explique de maneira informal, como se eu fosse uma criança de 10 anos
@@ -56,18 +55,11 @@ ChatGPT：
 - Faça um call to action para as minhas redes sociais
 - Coloque 3 hashtags que façam sentido   |
 
-
 Glif.app：
 
 - No Glif criei as imagens, os termos de pesquisa que utilizei durante o desenvolvimento do arquivo:
 
 • Linux
-
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Glif.app
 
 ## 📚 Materiais
 
