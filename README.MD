@@ -53,18 +53,10 @@ Glif.app：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize o vscode para depura e fazer as edições necessárias.
 ## 
-    <p>&nbsp&nbsp&nbspCrislei Jenuino<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/CrisleiKeli">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/crisleikelijenuino/">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/crisleikeli.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+   
+<a href="https://github.com/CrisleiKeli">GitHub</a>&nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/crisleikelijenuino/">LinkedIn</a>&nbsp;|&nbsp;
+<a href="https://www.instagram.com/crisleikeli.exe/">Instagram</a>
 
 ---
 
