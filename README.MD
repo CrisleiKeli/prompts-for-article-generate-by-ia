@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/Capturar.PNG.github/assets/CAPA ARQUIVO LINUX.png"
+    src=".github/assets/CAPA ARQUIVO LINUX.png"
     width="200"  
   />
 </p>
