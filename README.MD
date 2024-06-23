@@ -50,4 +50,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por Crislei Keli
+Feito por Crislei Keli
