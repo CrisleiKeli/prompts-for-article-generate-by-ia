@@ -15,7 +15,7 @@
 <p align="center">
   <img 
     src=".github/assets/Capturar.PNG"
-    width="400"  
+    width="200"  
   />
 </p>
 
