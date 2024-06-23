@@ -31,8 +31,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [glif.app](https://https://glif.app/) - para gerar imagens
+- [remobe.bg](https://www.remove.bg/) - para tratamento de imagens
+- [Canva](https://www.canva.com/) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -42,21 +43,31 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte-se como um escritor de artigos tech linux e escreva o artigo atendendo as regras abaixo
+
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- O que são as permissões de arquivos no Linux
+    - Cite exemplos com códigos de permissões de arquivos
+- Quais são os erros mais comuns
+    - Cite exemplos com códigos de com erros mais comuns
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido   |
 
 
-Lexica.art：
+Glif.app：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No Glif criei as imagens, os termos de pesquisa que utilizei durante o desenvolvimento do arquivo:
 
-• Angular
-
+• Linux
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens geradas via Glif.app
 
 ## 📚 Materiais
 
@@ -64,10 +75,8 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-## 👨‍💻 Expert
-
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize o vscode para depura e fazer as edições necessárias.
+## 
 <p>
     <img 
       align=left 
