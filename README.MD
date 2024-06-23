@@ -15,7 +15,7 @@
 <p align="center">
   <img 
     src=".github/assets/CAPA ARQUIVO LINUX.png"
-    width="200"  
+    width="400"  
   />
 </p>
 
